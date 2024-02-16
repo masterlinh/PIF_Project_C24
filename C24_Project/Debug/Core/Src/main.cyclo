@@ -1,0 +1,15 @@
+../Core/Src/main.c:89:1:Display_by_Solenoid	7
+../Core/Src/main.c:125:1:Capital_Letter	1
+../Core/Src/main.c:133:1:number	1
+../Core/Src/main.c:141:1:chuyen	1
+../Core/Src/main.c:165:1:HAL_GPIO_EXTI_Callback	3
+../Core/Src/main.c:187:1:HAL_UART_RxCpltCallback	1
+../Core/Src/main.c:212:1:Saving	1
+../Core/Src/main.c:231:1:main	35
+../Core/Src/main.c:471:6:SystemClock_Config	4
+../Core/Src/main.c:515:13:MX_ADC1_Init	3
+../Core/Src/main.c:562:13:MX_I2C1_Init	2
+../Core/Src/main.c:596:13:MX_USART2_UART_Init	2
+../Core/Src/main.c:627:13:MX_DMA_Init	1
+../Core/Src/main.c:645:13:MX_GPIO_Init	1
+../Core/Src/main.c:704:6:Error_Handler	1

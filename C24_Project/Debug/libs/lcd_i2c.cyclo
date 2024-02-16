@@ -1,0 +1,6 @@
+../libs/lcd_i2c.c:11:6:lcd_i2c_init	1
+../libs/lcd_i2c.c:46:6:lcd_send_cmd	1
+../libs/lcd_i2c.c:61:6:lcd_send_data	1
+../libs/lcd_i2c.c:77:6:lcd_set_cursor	2
+../libs/lcd_i2c.c:84:6:lcd_send_string	2
+../libs/lcd_i2c.c:89:6:lcd_clear	1
